@@ -15,7 +15,7 @@ For a more stable setup (and to avoid uploading a lot of pdfs), you can do one o
   * Open a Jupyter notebook session within the repo using `jupyter notebook`
   * Copy the pdfs to your repo folder
   * Run the notebook
-2. If you prefer to use a Docker container
+2. If you prefer to use a Docker container:
   * Have Docker installed and running on your local computer.
   * Install repo2docker using `pip install jupyter-repo2docker`
   * Run repo2docker using `jupyter-repo2docker pdf_parser`, or replace `pdf_parser` to the path of the repo.
